@@ -1,0 +1,39 @@
+body{
+    color: white;
+    background-image: url("gem.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+#center{
+    background-color: blue;
+    max-width: 40%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+h2{
+    font-size: 50px;
+}
+button{
+    color: white;
+    border:3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
+#increment{
+background-color: red;
+}
+#save{
+background-color: rgb(29, 116, 29);
+}
+p{
+    color: aqua;
+    font-size: 30px;
+}
